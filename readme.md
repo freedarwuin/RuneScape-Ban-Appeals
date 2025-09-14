@@ -5,8 +5,8 @@ Este repositorio contiene ejemplos de apelaciones para casos de baneos en RuneSc
 ---
 
 ## 📂 Archivos
-- `Bot_Busting_Appeal.txt` → Plantilla de apelación para el caso **Bot Busting Moderate** (06-Oct-2024).
-- `Macroing_Appeal.txt` → Plantilla de apelación para el caso **Macroing Major** (11-Sep-2025).
+- `Bot_Busting_Appeal.txt` → Plantilla de apelación para el caso **Bot Busting Moderate**.
+- `Macroing_Appeal.txt` → Plantilla de apelación para el caso **Macroing Major**.
 
 ---
 
